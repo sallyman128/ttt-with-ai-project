@@ -1,0 +1,18 @@
+
+[1mFrom:[0m /home/sallyman128/Development/code/phase_1/ttt-with-ai-project/lib/game.rb @ line 98 Game#play:
+
+     [1;34m97[0m: [32mdef[0m [1;34mplay[0m
+ =>  [1;34m98[0m:   binding.pry
+     [1;34m99[0m:   [1;36mself[0m.turn
+    [1;34m100[0m: 
+    [1;34m101[0m: [1;34m#   if self.over?[0m
+    [1;34m102[0m: [1;34m#   else[0m
+    [1;34m103[0m: [1;34m#     self.turn[0m
+    [1;34m104[0m: [1;34m#   end[0m
+    [1;34m105[0m: [1;34m#   until self.over? do[0m
+    [1;34m106[0m: [1;34m#     self.turn[0m
+    [1;34m107[0m: [1;34m#   end[0m
+    [1;34m108[0m: 
+    [1;34m109[0m: 
+    [1;34m110[0m: [32mend[0m
+
